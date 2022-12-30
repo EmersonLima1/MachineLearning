@@ -26,7 +26,25 @@ De acordo com SAS, enquanto a inteligência artificial (IA) pode ser definida, d
 
 ## Dados de treino x Dados de teste
 - **Dados de treino**: dados de treino são os dados que serão apresentados ao algoritmo de machine learning para criação do modelo. Estes dados costumam representar cerca de 70% da totalidade dos dados.
+- **Dados de teste**: são os dados que serão apresentados ao modelo após a sua criação, simulando previsões reais que o modelo realizará, permitindo assim que o desempenho real seja verificado. Estes dados costumam representar cerca de 30% da totalidade dos dados.
 
+Se o modelo conseguir fazer previsões corretas sobre os dados de teste, significa que o modelo está funcionando bem. Esses dados de teste também são dados históricos, ou seja, já estão classificados, então basta comparar as previsões do modelo com as respectivas classificações para ver se ele acertou ou errou nas suas previsões.
+ 
+## Técnicas de Machine Learning
+- **Classificação**: na classificação, o objetivo é identificar a qual categoria determinada imagem ou conjunto de dados pertence. Em outras palavras, escolher dentre uma lista pré-definida de possibilidades se uma imagem diz respeito à categoria gato ou cachorro, como no exemplo. Os problemas de classificação são aqueles onde se busca encontrar uma classe, dentro das possibilidades limitadas existentes. Esta classe pode ser se um aluno foi aprovado ou reprovado, se uma pessoa possui uma doença ou não, dentre outras tantas possibilidades, sendo que nestes casos ou a previsão será uma ou outra.
+- **Regressão**: neste caso, procura-se estimar um valor numérico e não uma categoria ou rótulo. Pode ser utilizada para estimar a precificação de um produto, por exemplo.
+- **Clusterização**: clusterizar nada mais é do que agrupar. Logo, o objetivo desse tipo de algoritmo é agrupar dados semelhantes. Por exemplo, consumidores que possuem o mesmo perfil ou fotos que contêm a mesma pessoa, similar ao que ocorre no Google Fotos.
 
+## Principais algoritmos de Machine Learning
+- **KNN**
+- **Regressão Linear**
+- **Regressão Logística**
+- **Decision Trees**  
+- **Random Forest**
+- **Naives Bayes** 
+- **PCA**
+- **Perceptron**
+- **SVM**
+- **K-Means**  
 </div>
 
