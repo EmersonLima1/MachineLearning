@@ -45,6 +45,17 @@ Se o modelo conseguir fazer previsões corretas sobre os dados de teste, signifi
 - **PCA**
 - **Perceptron**
 - **SVM**
-- **K-Means**  
+- **K-Means**
+ 
+### Fontes
+[IBM](https://www.ibm.com/br-pt/cloud/learn/machine-learning)
+ 
+[SAS](https://www.sas.com/pt_br/insights/analytics/machine-learning.html)
+ 
+[Ateliware](https://ateliware.com/blog/aprendizado-de-maquina-tipos)
+
+[Didatica.Tech](https://didatica.tech/dados-de-treino-e-teste/)
+
+[Didatica.Tech](https://didatica.tech/problemas-de-classificacao-e-regressao/)
 </div>
 
